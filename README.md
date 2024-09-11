@@ -58,7 +58,7 @@ We release our data as ``jsonl`` and ``csv`` files.
 
 The above are structures of an example based on Social IQA. Please note that CommonsenseQA does not have a ``context`` field and has 5 answer options for each question.
 ## License
-This project is licensed under the CC-BY-4.0 License.
+This project is licensed under the MIT License.
 ## Citation
 If you use this dataset, please cite the following paper:
 
