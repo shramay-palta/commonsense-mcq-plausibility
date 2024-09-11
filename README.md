@@ -61,3 +61,54 @@ The above are structures of an example based on Social IQA. Please note that Com
 This project is licensed under the CC-BY-4.0 License.
 ## Citation
 If you use this dataset, please cite the following paper:
+
+```
+Insert citation for our work.
+```
+
+Please also cite the original dataset papers:
+
+```
+@inproceedings{sap-etal-2019-social,
+    title = "Social {IQ}a: Commonsense Reasoning about Social Interactions",
+    author = "Sap, Maarten  and
+      Rashkin, Hannah  and
+      Chen, Derek  and
+      Le Bras, Ronan  and
+      Choi, Yejin",
+    editor = "Inui, Kentaro  and
+      Jiang, Jing  and
+      Ng, Vincent  and
+      Wan, Xiaojun",
+    booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)",
+    month = nov,
+    year = "2019",
+    address = "Hong Kong, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/D19-1454",
+    doi = "10.18653/v1/D19-1454",
+    pages = "4463--4473"
+}
+```
+
+
+```
+@inproceedings{talmor-etal-2019-commonsenseqa,
+    title = "{C}ommonsense{QA}: A Question Answering Challenge Targeting Commonsense Knowledge",
+    author = "Talmor, Alon  and
+      Herzig, Jonathan  and
+      Lourie, Nicholas  and
+      Berant, Jonathan",
+    editor = "Burstein, Jill  and
+      Doran, Christy  and
+      Solorio, Thamar",
+    booktitle = "Proceedings of the 2019 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+    month = jun,
+    year = "2019",
+    address = "Minneapolis, Minnesota",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/N19-1421",
+    doi = "10.18653/v1/N19-1421",
+    pages = "4149--4158"
+}
+```
