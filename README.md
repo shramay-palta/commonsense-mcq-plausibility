@@ -7,6 +7,7 @@ The data contains plausibility ratings for individual question answer tuples and
 Overall, we collect 5000 plausibility ratings in total for both datasets and 1530 full question annoataions. Please refer to our paper for more details.
 
 ## Data
+The data is organized as follows:
 ```
 └── data
     └── ind
