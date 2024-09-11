@@ -9,7 +9,7 @@ Overall, we collect 5000 plausibility ratings in total for both datasets and 153
 ## Data
 ```
 └── data
-    └── individual
+    └── ind
         ├── siqa_ind.jsonl
         ├── siqa_ind.csv
         ├── cqa_ind.jsonl
