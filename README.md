@@ -38,7 +38,7 @@ We release our data as ``jsonl`` and ``csv`` files.
     "answer_picked": "List of the answer choices picked by the annotators",
     "feedback": "Optional feedback provided by the annotators",
     "original_gold_label": "The original gold label from the dataset",
-    "votes_distribution": "Annotator vote distribution for the answer choices for the question."
+    "votes_distribution": "Annotator vote distribution for the answer choices for the question"
     }
 
 
