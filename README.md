@@ -7,6 +7,19 @@ The data contains plausibility ratings for individual question answer tuples and
 Overall, we collect 5000 plausibility ratings in total for both datasets and 1530 full question annoataions. Please refer to our paper for more details.
 
 ## Data
+```
+└── data
+    └── individual
+        ├── siqa_ind.jsonl
+        ├── siqa_ind.csv
+        ├── cqa_ind.jsonl
+        ├── cqa_ind.csv
+    └── full
+        ├── siqa_full.jsonl
+        ├── siqa_full.csv
+        ├── cqa_full.jsonl
+        ├── cqa_full.csv  
+```
 We release our data as ``jsonl`` and ``csv`` files.
 1. Files with the suffix ``ind`` in the file name contain the plausibility ratings of individual question answer tuples. The ``ind`` files are structured as follows:
     ```json
