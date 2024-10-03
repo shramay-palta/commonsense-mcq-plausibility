@@ -4,7 +4,7 @@ This repository contains the data collected in the paper: Plausibly Problematic 
 ## Introduction
 The data contains plausibility ratings for individual question answer tuples and the votes received when all the answer choices were shown to the annotators. We collect data for 125 questions each from [Social IQA](https://aclanthology.org/D19-1454/) and [CommonsenseQA](https://aclanthology.org/N19-1421/). 
 
-Overall, we collect 5000 plausibility ratings in total for both datasets and 1530 full question annoataions. Please refer to our paper for more details.
+Overall, we collect 5000 plausibility ratings in total for both datasets and 1530 full question annotations. Please refer to our paper for more details.
 
 ## Data
 The data is organized as follows:
