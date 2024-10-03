@@ -1,5 +1,5 @@
 # Plausibly Problematic Questions in Multiple-Choice Benchmarks for Commonsense Reasoning
-This repository contains the data collected in the paper: Plausibly Problematic Questions in Multiple-Choice Benchmarks for Commonsense Reasoning. 
+This repository contains the data collected in the paper: Plausibly Problematic Questions in Multiple-Choice Benchmarks for Commonsense Reasoning presented at the [The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)](https://2024.emnlp.org)
 
 ## Introduction
 The data contains plausibility ratings for individual question answer tuples and the votes received when all the answer choices were shown to the annotators. We collect data for 125 questions each from [Social IQA](https://aclanthology.org/D19-1454/) and [CommonsenseQA](https://aclanthology.org/N19-1421/). 
