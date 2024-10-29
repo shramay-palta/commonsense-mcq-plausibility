@@ -63,7 +63,15 @@ This project is licensed under the MIT License.
 If you use this dataset, please cite the following paper:
 
 ```
-Insert citation for our work.
+@misc{palta2024plausiblyproblematicquestionsmultiplechoice,
+      title={Plausibly Problematic Questions in Multiple-Choice Benchmarks for Commonsense Reasoning}, 
+      author={Shramay Palta and Nishant Balepur and Peter Rankel and Sarah Wiegreffe and Marine Carpuat and Rachel Rudinger},
+      year={2024},
+      eprint={2410.10854},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.10854}, 
+}
 ```
 
 Please also cite the original dataset papers:
