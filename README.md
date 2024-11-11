@@ -1,5 +1,5 @@
 # Plausibly Problematic Questions in Multiple-Choice Benchmarks for Commonsense Reasoning
-This repository contains the data collected in the paper: Plausibly Problematic Questions in Multiple-Choice Benchmarks for Commonsense Reasoning presented at the [The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)](https://2024.emnlp.org)
+This repository contains the data collected in the paper: [Plausibly Problematic Questions in Multiple-Choice Benchmarks for Commonsense Reasoning](https://aclanthology.org/2024.findings-emnlp.198/) presented at the [The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)](https://2024.emnlp.org)
 
 ## Introduction
 The data contains plausibility ratings for individual question answer tuples and the votes received when all the answer choices were shown to the annotators. We collect data for 125 questions each from [Social IQA](https://aclanthology.org/D19-1454/) and [CommonsenseQA](https://aclanthology.org/N19-1421/). 
@@ -63,14 +63,24 @@ This project is licensed under the MIT License.
 If you use this dataset, please cite the following paper:
 
 ```
-@misc{palta2024plausiblyproblematicquestionsmultiplechoice,
-      title={Plausibly Problematic Questions in Multiple-Choice Benchmarks for Commonsense Reasoning}, 
-      author={Shramay Palta and Nishant Balepur and Peter Rankel and Sarah Wiegreffe and Marine Carpuat and Rachel Rudinger},
-      year={2024},
-      eprint={2410.10854},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2410.10854}, 
+@inproceedings{palta-etal-2024-plausibly,
+    title = "Plausibly Problematic Questions in Multiple-Choice Benchmarks for Commonsense Reasoning",
+    author = "Palta, Shramay  and
+      Balepur, Nishant  and
+      Rankel, Peter A.  and
+      Wiegreffe, Sarah  and
+      Carpuat, Marine  and
+      Rudinger, Rachel",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-emnlp.198",
+    pages = "3451--3473",
 }
 ```
 
